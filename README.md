@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdsull
-- 👀 I’m a Computer Science Major graduating from DePauw University in May 2024
+- 👀 Majoring in Computer Science and graduating from DePauw University in May 2024
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Express.js
 - 💞️ I’m looking to collaborate on Full Stack Projects
 
